@@ -1,19 +1,15 @@
-/backend/config/config.env
 /node_modules
+/backend/config/config.env
 /frontend/node_modules
 /frontend/.pnp
 /frontend/.pnp.js
+
 /frontend/coverage
+
 /frontend/build
 
-/frontend/.DS_STORE
+/frontend/.DS_Store
 /frontend/.env.local
-/frontend/.env.devlopment.local
+/frontend/.env.development.local
 /frontend/.env.test.local
 /frontend/.env.production.local
-
-
-
-
-
-
